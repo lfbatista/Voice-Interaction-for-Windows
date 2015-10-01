@@ -5,9 +5,8 @@
 
 ![Graphical interface e comandos disponíveis](http://i.imgur.com/eYAyazk.png)
 
-All the commands are run from the 80% confidence level.
-
-Edit the word's dictionary with the intended commands in testereco/testereco/bin/Release/palavras.xml. 
+All the commands are executed from the 80% confidence.
+Edit the word's dictionary with the intended commands at testereco/testereco/bin/Release/palavras.xml. 
 
 **Requirements**
 
