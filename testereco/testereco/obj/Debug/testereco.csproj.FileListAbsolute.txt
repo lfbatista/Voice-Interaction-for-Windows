@@ -1,0 +1,13 @@
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\obj\Debug\testereco.Form1.resources
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\obj\Debug\testereco.Properties.Resources.resources
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\obj\Debug\testereco.csproj.GenerateResource.Cache
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\bin\Debug\testereco.exe
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\bin\Debug\testereco.pdb
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\obj\Debug\testereco.exe
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\obj\Debug\testereco.pdb
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\bin\Debug\testereco.exe.manifest
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\bin\Debug\testereco.application
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\obj\Debug\testereco.TrustInfo.xml
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\obj\Debug\testereco.exe.manifest
+C:\Users\magickey_samsung_1\Documents\Visual Studio 2008\Projects\testereco\testereco\obj\Debug\testereco.application

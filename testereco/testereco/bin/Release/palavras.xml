@@ -1,0 +1,66 @@
+﻿<GRAMMAR LANGID="816">
+	<DEFINE>
+		<ID NAME="RID" VAL="1"/>
+	</DEFINE>
+
+  <!--  menus  -->
+  <RULE NAME="Abrir sapo" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Abrir sapo</O>
+  </RULE>
+  <RULE NAME="Fechar crome" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Fechar crome</O>
+  </RULE>
+    <RULE NAME="Fechar programa" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Fechar programa</O>
+  </RULE>
+  <RULE NAME="Mudar programa" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Mudar programa</O>
+  </RULE>
+  <RULE NAME="Minimiza" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Minimiza</O>
+  </RULE>
+  <RULE NAME="Aparece" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Aparece</O>
+  </RULE>
+    <RULE NAME="Abrir editor de texto" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Abrir editor de texto</O>
+  </RULE>
+    <RULE NAME="Ativar scrol" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Ativar scrol</O>
+  </RULE>
+
+  <!-- Comandos do rato -->
+    <RULE NAME="Pressionar" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Pressionar</O>
+  </RULE>
+    <RULE NAME="Clicar" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Clicar</O>
+  </RULE>
+    <RULE NAME="Clicar direito	" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Clicar direito</O>
+  </RULE>
+  <RULE NAME="Ativar rato" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Ativar rato</O>
+  </RULE>
+  <RULE NAME="Parar" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Parar</O>
+  </RULE>
+    <RULE NAME="Direita" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Direita</O>
+  </RULE>
+      <RULE NAME="Baixo" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Baixo</O>
+  </RULE>
+      <RULE NAME="Esquerda" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Esquerda</O>
+  </RULE>
+      <RULE NAME="Cima" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Cima</O>
+  </RULE>
+  <RULE NAME="Rápido" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Rápido</O>
+  </RULE>
+    <RULE NAME="Devagar" TOPLEVEL="ACTIVE" EXPORT="1">
+    <O>Devagar</O>
+  </RULE>
+</GRAMMAR>

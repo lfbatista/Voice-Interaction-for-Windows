@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="testereco">
+</Property><Property Name="Solution File" Value="C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\testereco.sln">
+</Property><Property Name="User Options File" Value="C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\testereco.suo">
+</Property><Property Name="Date" Value="sexta-feira, 27 de Março de 2015">
+</Property><Property Name="Time" Value="17:14">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="testereco.sln" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco.sln">
+</Event><Event ErrorLevel="0" Project="" Source="testereco.suo" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco.suo">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\testereco.csproj" Description="Project file successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\testereco.csproj">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\testereco.csproj.user" Description="Project user file successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\testereco.csproj.user">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\Form1.cs" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\Form1.cs">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\Form1.Designer.cs" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\Program.cs" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\Program.cs">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\Properties\app.manifest" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\Properties\Settings.settings" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\Form1.resx" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\Form1.resx">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\Properties\Resources.resx" Description="File successfully backed up as C:\Users\User\Google Drive\cm\2º semestre\cu\testereco\Backup\testereco\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\testereco.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="testereco" Source="testereco\testereco.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="testereco.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="testereco.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="testereco" Source="testereco\testereco.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
