@@ -1,13 +1,15 @@
-# Interação por voz para o Windows
-####Programa em C# para interação com o Windows com comandos de voz
+#Program for Voice interaction with Windows
+####C# program to interact with Windows using voice commands
 
-**Interface e comandos disponíveis**
+**Graphical interface e comandos disponíveis**
 
-![Interface e comandos disponíveis](http://i.imgur.com/eYAyazk.png)
+![Graphical interface e comandos disponíveis](http://i.imgur.com/eYAyazk.png)
 
-Os comandos são executados a partir dos 80% de confiança.
+All the commands are run from the 80% confidence level.
 
-**Requisitos**
+Edit the word's dictionary with the intended commands in testereco/testereco/bin/Release/palavras.xml. 
+
+**Requirements**
 
 [Microsoft Speech Platform - Server Runtime (Version 10.1)](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=24974)
 
